@@ -1,6 +1,4 @@
-# weightConverter_pyqt5
-This is a simple weight converter application built using PyQt5 that converts pounds to kilograms.
-Weight Converter
+**Weight Converter**
 This is a simple weight converter application built using PyQt5 that converts pounds to kilograms.
 
 Getting Started
